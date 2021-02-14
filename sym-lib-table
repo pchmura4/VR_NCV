@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name freeEMS_lib)(type Legacy)(uri ${KIPRJMOD}/freeEMS_lib.lib)(options "")(descr ""))
+  (lib (name VR_NCV-rescue)(type Legacy)(uri ${KIPRJMOD}/VR_NCV-rescue.lib)(options "")(descr ""))
+)
